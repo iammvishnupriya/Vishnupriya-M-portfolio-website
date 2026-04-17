@@ -19,7 +19,7 @@ const Hero = () => {
               Specializing in Spring Boot, React, and AI Integration
             </p>
             <p className="text-base text-gray-600 mb-8">
-              <span className="text-[#8B1538] font-semibold">1.4 Years Experience</span> at HEPL | Building scalable backend systems with intelligent AI-driven solutions
+              <span className="text-[#8B1538] font-semibold">1.8+ Years Experience</span> at HEPL | Building scalable backend systems with intelligent AI-driven solutions
             </p>
             <div className="flex gap-4">
               <a href="#projects" className="bg-[#8B1538] text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#6B0F2A] transition-all shadow-lg">

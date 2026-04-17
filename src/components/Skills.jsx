@@ -1,10 +1,11 @@
 const Skills = () => {
   const skillCategories = [
-    { category: "Backend", skills: ["Java", "Spring Boot", "REST APIs", "Python"] },
-    { category: "Frontend", skills: ["React", "HTML", "CSS"] },
-    { category: "Database", skills: ["MySQL"] },
-    { category: "AI", skills: ["OpenAI API", "Machine Learning", "LSTM"] },
-    { category: "Tools", skills: ["Git", "GitHub", "Agile", "Postman"] }
+    { category: "Core Skills", skills: ["Java", "Spring Boot", "REST APIs", "Data Structures & Algorithms", "OOPs"] },
+    { category: "Backend & API", skills: ["Spring Security", "JWT Authentication", "Microservices Architecture", "API Design", "WebSocket"] },
+    { category: "Database", skills: ["MySQL", "MongoDB", "SQL Optimization"] },
+    { category: "Frontend", skills: ["React.js", "HTML5", "CSS3", "JavaScript"] },
+    { category: "AI & Modern Tech", skills: ["Prompt Engineering", "OpenAI API Integration", "Basic Machine Learning"] },
+    { category: "Tools & DevOps", skills: ["Git & GitHub", "Postman", "Swagger / OpenAPI", "VS Code / IntelliJ IDEA", "Maven / Gradle", "Azure Portal", "MongoDB Compass", "MySQL Workbench", "Docker", "Jira / Agile Tools"] }
   ];
 
   return (

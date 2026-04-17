@@ -1,5 +1,6 @@
 const Projects = () => {
   const projects = [
+    { title: "Convex Agile Service (Backend)", tech: "Spring Boot, MongoDB, REST APIs", description: "Backend microservice for Agile project management including sprint planning, ticket tracking, and status history. Built following Agile practices at HEPL.", github: "https://github.com/iammvishnupriya", type: "Company" },
     { title: "LiveWire – Product Demo Tracker", tech: "Java Spring Boot, React, MySQL", description: "Demo tracking and monitoring system for product teams.", github: "https://github.com/iammvishnupriya", type: "Company" },
     { title: "Outlet Approval System", tech: "Spring Boot, GPT-4 API", description: "Retail outlet approval workflow with AI image validation.", github: "https://github.com/iammvishnupriya", type: "Company" },
     { title: "LMS System", tech: "Spring Boot + React", description: "Multi-role login system for Salon Owner, Stylist, and Admin with JWT Authentication and admin approval workflow.", github: "https://github.com/iammvishnupriya", type: "Company" },

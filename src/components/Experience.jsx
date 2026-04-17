@@ -10,7 +10,7 @@ const Experience = () => {
                 <h3 className="text-xl font-bold text-gray-900">Developer Trainee</h3>
                 <p className="text-lg text-[#8B1538] font-semibold">HEPL</p>
               </div>
-              <span className="bg-[#8B1538] text-white px-3 py-1 rounded-full text-sm font-bold">1.4 Years</span>
+              <span className="bg-[#8B1538] text-white px-3 py-1 rounded-full text-sm font-bold">1.8+ Years</span>
             </div>
             <ul className="space-y-1 text-gray-700 text-sm">
               <li>✓ Built backend modules using Java, Spring Boot, and MySQL</li>
